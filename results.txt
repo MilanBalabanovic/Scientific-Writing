@@ -1,0 +1,62 @@
+Conf 1:
+--- Final Evaluation ---
+Accuracy: 0.8890
+Detection Rate (TPR): 0.9822
+False Positive Rate (FPR): 0.2252
+Training duration (seconds): 115.28
+
+Confusion Matrix:
+ [[28669  8331]
+ [  806 44526]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0     0.9727    0.7748    0.8625     37000
+           1     0.8424    0.9822    0.9069     45332
+
+    accuracy                         0.8890     82332
+   macro avg     0.9075    0.8785    0.8847     82332
+weighted avg     0.9009    0.8890    0.8870     82332
+
+Conf 2:
+--- Final Evaluation ---
+Accuracy: 0.8706
+Detection Rate (TPR): 0.9914
+False Positive Rate (FPR): 0.2775
+Training duration (seconds): 94.36
+
+Confusion Matrix:
+ [[26733 10267]
+ [  389 44943]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0     0.9857    0.7225    0.8338     37000
+           1     0.8140    0.9914    0.8940     45332
+
+    accuracy                         0.8706     82332
+   macro avg     0.8998    0.8570    0.8639     82332
+weighted avg     0.8912    0.8706    0.8670     82332
+
+Conf 3:
+--- Final Evaluation ---
+Accuracy: 0.8615
+Detection Rate (TPR): 0.9904
+False Positive Rate (FPR): 0.2965
+Training duration (seconds): 163.03
+
+Confusion Matrix:
+ [[26029 10971]
+ [  436 44896]]
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0     0.9835    0.7035    0.8203     37000
+           1     0.8036    0.9904    0.8873     45332
+
+    accuracy                         0.8615     82332
+   macro avg     0.8936    0.8469    0.8538     82332
+weighted avg     0.8845    0.8615    0.8572     82332

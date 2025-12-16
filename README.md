@@ -1,4 +1,4 @@
-# Supplementary Material – RNN-Based Network Intrusion Detection
+# RNN-Based Network Intrusion Detection
 
 This repository provides supplementary material for the paper:
 
